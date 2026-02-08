@@ -2,3 +2,4 @@
 *.love
 *.exe
 build/
+.vscode
